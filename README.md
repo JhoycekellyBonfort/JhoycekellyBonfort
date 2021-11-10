@@ -26,7 +26,7 @@ Future Software Engineering | Developer Senior na Visão On-line<br>
 </div>
   </div> 
 
-##
+##h
   
 ### __LANGUAGES__
 </div>
@@ -40,7 +40,7 @@ Future Software Engineering | Developer Senior na Visão On-line<br>
 ### __CONTACT__
 
 <div>
-  <a href="https://www.linkedin.com/in/jhoyce-kelly-bonfort-santos-879697218//" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jhoycebonfort//" target="_blank"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
   &nbsp&nbsp&nbsp<a href="https://www.instagram.com/bonfortjhoyce" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Instagram"></a>   
   &nbsp&nbsp&nbsp<a href="mailto:jhoycekelly@visao-ol.com.br"><img align="center" alt="E-mail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>
   &nbsp&nbsp&nbsp<img align="center" height="28" width="130" src="https://komarev.com/ghpvc/?username=JhoycekellyBonfort&color=blue" alt="Jhoyce Kelly" /> 
